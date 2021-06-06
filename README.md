@@ -7,3 +7,11 @@ them at their doorstep by using our application. In a nutshell, Saffai.com is no
 communication gap between the customers and the service providers but is also going to build a strong and positive position in 
 a relatively less explored market.
 
+Setting up the repository
+
+Make sure you have Adobe XD installed 
+
+Steps
+
+Open the file provided with Adobe XD
+
